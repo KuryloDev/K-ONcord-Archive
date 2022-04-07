@@ -1,0 +1,28 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 5499333,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/846360035172679781/846404412364554270/Staff_Team.png"
+      }
+    },
+    {
+      "description": "**Server Administrators:**\n<@230105448940830721>\n<@256789973749989376>\n<@292078380436946944>\n<@476663425909522442>\n<@385929312257310730>\n<@141063260341272576>\n\n**Server Moderators:**\n<@129329809741447168>\n<@296320249773555712>\n<@505558027034951708>\n<@330263078589562880>\n<@507549749705048095>\n<@327551288202231808>\n\n**Event Council:**\n<@641544720157245441>\n<@234884092099952642>\n<@351447839039029259>\n<@364321639707574272>\n<@721914237328293898>\n<@657016954267107338>\n<@335570647570710531>\n<@266628923553480714>",
+      "color": 5499333
+    },
+    {
+      "title": "Enjoy your time here at the K-ON Community Discord Server!",
+      "description": "Please read everything above to get to know all the information regarding our server. If you have any questions regarding the server, feel free to chat with one of the Server Staff or send them a message personally",
+      "color": 5499333,
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/625320999386349578/844510996323631104/2b3da63bdd5b2d01e13048a40f007aa5.png"
+      }
+    },
+    {
+      "title": "Please follow these rules at all times. If you see any of these rules being broken, don't hesitate to report it to staff!",
+      "description": "__**[Click here](https://discord.com/channels/727293343352225853/729129999164112947/846535396254941184)**__ **to view Server Rules.**",
+      "color": 5499333
+    }
+  ]
+}

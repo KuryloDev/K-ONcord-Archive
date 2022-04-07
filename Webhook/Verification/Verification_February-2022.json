@@ -1,0 +1,17 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Welcome to the K-ON! Discord Server!",
+      "color": 16732672,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/727308758379790377/806541755906392064/keionbanner2.png"
+      }
+    },
+    {
+      "title": "How to Verify!",
+      "description": "➜ Please read our <#729129999164112947>.\n\n➜ There is a spoiler-hidden command code in the rules section that will grant you access to the rest of the server. Type that into this channel once you have found it.\n\n➜ If you are having problems, please DM one of the online staff members. (Student Council or Buchou).",
+      "color": 16732672
+    }
+  ]
+}
