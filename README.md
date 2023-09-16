@@ -1,23 +1,22 @@
 
-#  K-ON!cord Archive
+# K-ON!cord Archive
+(Last Updated: September 2023)
 
+Welcome to the official archive for the **K-ON!** Discord server!
 
-Welcome to the official archive for the K-ON! Discord server!
+## Summary 
 
+This repository stores emotes, images and webhook files of the K-ON! Discord community server up until July 2022. It contains the majority of all above mentioned files, however this repository is no longer being actively maintained and is purely reserved for public usage.
 
+While you might be able to find most emotes and other files here, there is no guarantee that all will be present. For inquiries or more information, please reach out to owner of this repository.
 
-### Server Info
+## Contributors
 
-- Vanity URL: http://discord.gg/kon
-- Permanent Link: http://discord.gg/NsJ6S3W
-- K-ON Subreddit: https://www.reddit.com/r/k_on/
-- Server Wiki: http://koncord.fandom.com/
-- K-ON Wiki: http://k-on.fandom.com/
+<a href="https://github.com/KuryloDev/K-ONcord-Archive/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KuryloDev/K-ONcord-Archive" />
+</a>
 
-
-### Contact
-
-This project and repository is maintained by [Kurylo](https://github.com/KuryloDev). It is property of the K-ON! Discord server.
-Contributions should always be requested by referring to the person in charge of this project.
-
-For this, please message [Kurylo#0625](https://github.com/KuryloDev) on Discord. Friend requests and messages starting with "Hi" or anything similar will be ignored. Please ask right away and be concise when doing so.
+## External Links
+- [Discord Server](http://discord.gg/NsJ6S3W) 
+- [Subreddit](https://www.reddit.com/r/k_on/) 
+- [Wiki](http://koncord.fandom.com/) 
